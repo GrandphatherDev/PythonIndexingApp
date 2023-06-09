@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /activity/
+Disallow: /register/
+
+Sitemap: https://ivankudin.pythonanywhere.com/sitemap.xml
+
